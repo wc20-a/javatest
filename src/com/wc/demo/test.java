@@ -15,5 +15,11 @@ public class test {
         System.out.println("金泰妍");
         System.out.println("金泰妍");
         System.out.println("金泰妍");
+        System.out.println("汪诚");
+        System.out.println("汪诚");
+        System.out.println("汪诚");
+        System.out.println("汪诚");
+        System.out.println("汪诚");
+        System.out.println("汪诚");
     }
 }
